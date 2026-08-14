@@ -1,1 +1,6 @@
 gunicorn
+pyTelegramBotAPI
+requests
+beautifulsoup4
+pytz
+hijri-converter
